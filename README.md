@@ -97,7 +97,7 @@ source alter_drop.sql       -- Alter/drop operations
 
 ---
 
-## 👤 Author
+##  Author
 
 **AYESHA NIKHAT**
 
